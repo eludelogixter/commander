@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Commander</string>
+    <string name="sound_on">Sound On</string>
+    <string name="sound_off">Sound Off</string>
+    <string name="action_settings">Settings</string>
+    <string name="arduino_text">Commander is a hybrid mobile application that joins both the Android OS and the Arduino prototyping platform.</string>
+    <string name="oshw_text">It was designed to interface with the HC-06 Bluetooth transceiver, a communication module typically used in open-hardware and open-source based projects.</string>
+    <string name="lego_text">Commander is not only Lego friendly, but it encourages the use of Lego blocks. The Bluetooth vehicle utilized for development and testing is Lego based. </string>
+    <string name="proto_text">For students and professionals alike, Commander can be a useful tool for prototyping, development and experimentation.</string>
+    <string name="title_activity_control">Commander</string>
+
+</resources>
